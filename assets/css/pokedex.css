@@ -12,17 +12,17 @@
 
 .grass {
     background-color: #77c850;
-    background-image: url(assets/img/folhas-contorno.png);
+    background-image: url(../img/folhas-contorno.png);
 }
 
 .fire {
     background-color: #ee7f30;
-    background-image: url(assets/img/chamas.png);
+    background-image: url(../img/chamas.png);
 }
 
 .water {
     background-color: #678fee;
-    background-image: url(assets/img/agua.png);
+    background-image: url(../img/agua.png);
 }
 
 .electric {
